@@ -1,6 +1,6 @@
 # Instagram para mascotas ⚛️
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/c/seba/)
 
 Una pequeña app que simula un instagram para mascotas con React usando Hooks
 
