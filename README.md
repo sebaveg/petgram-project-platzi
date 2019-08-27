@@ -1,8 +1,8 @@
-# curso-platzi-react-avanzado ⚛️
+# Instagram para mascotas ⚛️
 
 Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
 
-Un instagram para mascotas con React usando Hooks
+Una pequeña app que simula un instagram para mascotas con React usando Hooks
 
 ## [Link now](https://geounity.sebastiancardoso92.now.sh)
 
